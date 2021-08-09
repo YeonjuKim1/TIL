@@ -64,4 +64,24 @@ git push origin master
 - `-u` 옵션: upstream 옵션
   - `git push` 라고 명령을 하더라도 설정된 원격저장소에 브랜치를 push
   - `git push -u origin master`
-  - 
+
+
+
+```bash
+git init
+git add .
+git commit -m "메시지"
+git remote add origin <주소>
+git push origin master
+```
+
+
+
+1. 목록1
+   1. tab하면 하위 목록
+   2. 엔터하면 계속됩니다.
+2. shift+tab해주시면 상위 목록이 됩니다.
+
+```bash
+```
+
