@@ -2,7 +2,7 @@
 
 
 
-바탕화면 우클릭 - Git Bash Here 
+폴더 우클릭 - Git Bash Here 
 
 git 계정 확인
 
@@ -25,9 +25,9 @@ git과 github은 다른 개념.
 
 gitlab, github등 git을 사용하기 위한 다양한 서비스 사이트가 있음.
 
-
-
 붙여넣기 : shift+insert
+
+
 
 ## 원격저장소 조회
 
@@ -67,6 +67,8 @@ git push origin master
 
 
 
+## 기본 명령어
+
 ```bash
 git init
 git add .
@@ -85,3 +87,10 @@ git push origin master
 ```bash
 ```
 
+## 알고리즘 문제
+
+- https://www.acmicpc.net/problem/2557
+
+- https://www.acmicpc.net/problem/1000
+- https://programmers.co.kr/learn/courses/30/lessons/12932
+- https://swexpertacademy.com/main/main.do
