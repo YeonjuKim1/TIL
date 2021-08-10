@@ -1,4 +1,4 @@
-# # TIL(Today I Learned)
+# TIL(Today I Learned)
 
 국비 지원 머신러닝 수업 듣는 중.
 
